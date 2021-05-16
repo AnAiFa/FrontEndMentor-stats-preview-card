@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #090b1a;
+  font-family: Inter;
+}
+
+main {
+  margin: 4.5em 1.7em;
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+main .image-header {
+  height: 200px;
+  max-width: 100%;
+  background: url(../images/image-header-mobile.jpg);
+  position: relative;
+  background-size: 100% 100%;
+}
+
+main .image-header .image-header-overlay {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background: #aa5cdb;
+  opacity: 0.6;
+}
+
+main .card {
+  background: #1b1938;
+  text-align: center;
+}
+
+main .card .container {
+  padding: 2em 1.5em;
+}
+
+main .card .container h1 {
+  font-size: 1.7em;
+  color: white;
+}
+
+main .card .container h1 span {
+  color: #aa5cdb;
+}
+
+main .card .container p.details {
+  margin-top: 1.1em;
+  margin-bottom: 2em;
+  color: rgba(255, 255, 255, 0.75);
+  line-height: 1.7em;
+}
+
+main .card .container .flex p.stats {
+  font-weight: bold;
+  font-size: 1.3em;
+  color: white;
+}
+
+main .card .container .flex p {
+  color: rgba(255, 255, 255, 0.6);
+  text-transform: uppercase;
+  font-size: .7em;
+  margin-top: .7em;
+}
+
+main .card .container .flex .stats-container:not(:last-child) {
+  margin-bottom: 1.3em;
+}
+/*# sourceMappingURL=main.css.map */
