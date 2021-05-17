@@ -28,7 +28,7 @@ Users should be able to:
 ### Screenshot
 
 ![Mobile View](./Screenshot_2021-05-16 Frontend Mentor Stats preview card component.png)
-![Desktop View](Screen Shot 2021-05-18 at 17.33.46.png)
+![Desktop View](./Screen Shot 2021-05-18 at 17.33.46.png)
 
 
 ### Links
