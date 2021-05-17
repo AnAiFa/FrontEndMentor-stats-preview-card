@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Mobile View](./Screenshot_2021-05-16 Frontend Mentor Stats preview card component.png)
-![Desktop View](./Screen Shot 2021-05-18 at 17.33.46.png)
+![Mobile View](https://github.com/AnAiFa/FrontEndMentor-stats-preview-card/blob/main/Screenshot_2021-05-16%20Frontend%20Mentor%20Stats%20preview%20card%20component.png)
+![Desktop View](https://github.com/AnAiFa/FrontEndMentor-stats-preview-card/blob/main/Screen%20Shot%202021-05-18%20at%2017.33.46.png)
 
 
 ### Links
