@@ -27,13 +27,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Screenshot_2021-05-16 Frontend Mentor Stats preview card component.png)
+![Mobile View](./Screenshot_2021-05-16 Frontend Mentor Stats preview card component.png)
+![Desktop View](Screen Shot 2021-05-18 at 17.33.46.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/mobile-first-using-sass-O3opnbAMy)
+- Live Site URL: [live site URL here](https://determined-panini-c0a69d.netlify.app/)
 
 ## My process
 
